@@ -30,7 +30,7 @@ A web application aimed at helping international students easily find recipes an
 - Talent Search (Applicant Tracking System): A scalable platform with AI-powered resume scoring, candidate tracking, and Spring Boot RESTful APIs, designed to streamline recruitment processes and improve efficiency.
 
 
-Goals 🌟
+### Goals 🌟
 🚀 Secure a Software Engineer role at Microsoft or Google.
 🌱 Continue exploring cloud technologies, AI-driven applications, and fitness development software.
 
