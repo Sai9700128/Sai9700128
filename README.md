@@ -11,7 +11,7 @@ Portfolio URL:
 Resume URL:
 ```
 
-## $${\color{green}About \space Me}$$
+## $${\color{lightgreen}About \space Me}$$
 
 I'm a Graduate Student at Northeastern University, pursuing Master of science in Computer Software Engineering. With a strong passion for full-stack development and a focus on building scalable, impactful solutions, I aim to create software that makes a difference.
 
