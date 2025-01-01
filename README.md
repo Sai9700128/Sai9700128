@@ -31,8 +31,8 @@ A web application aimed at helping international students easily find recipes an
 
 
 ### Goals 🌟
-🚀 Secure a Software Engineer role at Microsoft or Google.
-🌱 Continue exploring cloud technologies, AI-driven applications, and fitness development software.
+- 🚀 Secure a Software Engineer role at Microsoft or Google.
+- 🌱 Continue exploring cloud technologies, AI-driven applications, and fitness development software.
 
 <!---
 Sai9700128/Sai9700128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
