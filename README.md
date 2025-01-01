@@ -11,7 +11,7 @@ Portfolio URL:
 Resume URL:
 ```
 
-## <code style= "color ; green" About </code>
+## <code style= "color : green" About </code>
 
 
 - 👀 I’m passionate about developing applications that can be seamlessly integrated into everyday life
