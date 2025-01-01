@@ -1,4 +1,4 @@
-## Hello. I'm Kalyan👋
+## Hello, I'm Kalyan👋
 
 
 ### Software Engineer & blogger based in boston
