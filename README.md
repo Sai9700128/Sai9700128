@@ -11,7 +11,7 @@ Portfolio URL:
 Resume URL:
 ```
 
-## $${\color{green}**About**}$$
+## $${\color{green}About}$$
 
 
 - 👀 I’m passionate about developing applications that can be seamlessly integrated into everyday life
