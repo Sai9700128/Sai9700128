@@ -13,12 +13,24 @@ Resume URL:
 
 ## $${\color{green}About \space Me}$$
 
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat:
-GitHub supports emoji!
-- 👀 I’m passionate about developing applications that can be seamlessly integrated into everyday life
-- 🌱 I’m currently working on developing an application designed to support and assist international students.
-- 💞️ I’m eager to collaborate on projects focused on full-stack development.
+I'm a Graduate Student at Northeastern University, pursuing Master of science in Computer Software Engineering. With a strong passion for full-stack development and a focus on building scalable, impactful solutions, I aim to create software that makes a difference.
+
+###3 Education 🎓
+Northeastern University
+Master of science in Computer Software Engineering
+2026
+Projects 💻
+<!--- Recipe Finder Application:
+A web application aimed at helping international students easily find recipes and manage their food arrangements. It includes features like ingredient-based searches and personalized recipe recommendations. --->
+
+- Roomies Radar: A scalable Progressive Web App for roommate and listing management, featuring Domain-Driven Design, RESTful APIs, ReactJS with TypeScript, Redux for state management, and optimized backend performance with a 25% faster API response time.
+
+- Talent Search (Applicant Tracking System): A scalable platform with AI-powered resume scoring, candidate tracking, and Spring Boot RESTful APIs, designed to streamline recruitment processes and improve efficiency.
+
+
+Goals 🌟
+🚀 Secure a Software Engineer role at Microsoft or Google.
+🌱 Continue exploring cloud technologies, AI-driven applications, and fitness development software.
 
 <!---
 Sai9700128/Sai9700128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
