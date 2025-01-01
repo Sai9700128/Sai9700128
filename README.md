@@ -15,11 +15,13 @@ Resume URL:
 
 I'm a Graduate Student at Northeastern University, pursuing Master of science in Computer Software Engineering. With a strong passion for full-stack development and a focus on building scalable, impactful solutions, I aim to create software that makes a difference.
 
-###3 Education 🎓
-Northeastern University
-Master of science in Computer Software Engineering
-2026
-Projects 💻
+### Education 🎓
+- Northeastern University
+- Master of science in Computer Software Engineering
+- **2026**
+
+
+### Projects 💻
 <!--- Recipe Finder Application:
 A web application aimed at helping international students easily find recipes and manage their food arrangements. It includes features like ingredient-based searches and personalized recipe recommendations. --->
 
