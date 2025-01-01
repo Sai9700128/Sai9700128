@@ -6,7 +6,7 @@
 > I explore ideas at the intersection of technology and creativity, delivering value through meaningful projects and thought-provoking content.
 
 ```
-Email:
+Email: [burra.sa@northeastern.edu]
 Portfolio URL:
 Resume URL:
 ```
