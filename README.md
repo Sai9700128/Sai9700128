@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Sai Kalyan
+## Hello. I'm Kalyan👋
+
+
+### Software Engineer & blogger
+### based in boston
 - 👀 I’m passionate about developing applications that can be seamlessly integrated into everyday life
 - 🌱 I’m currently working on developing an application designed to support and assist international students.
 - 💞️ I’m eager to collaborate on projects focused on full-stack development.
