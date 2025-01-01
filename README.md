@@ -1,7 +1,7 @@
-## Hello, I'm Kalyan👋
+# Hello, I'm Kalyan👋
 
 
-### Software Engineer & blogger based in boston
+## Software Engineer & blogger based in boston
 > I craft innovative solutions and share insights on technology, career growth, and personal development to inspire and empower others.
 > I explore ideas at the intersection of technology and creativity, delivering value through meaningful projects and thought-provoking content.
 
