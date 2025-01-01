@@ -11,7 +11,7 @@
 **Resume URL**:
 ```
 
-## $${\color{lightgreen}About}$$
+## $${\color{lightgreen}About}
 
 
 - 👀 I’m passionate about developing applications that can be seamlessly integrated into everyday life
