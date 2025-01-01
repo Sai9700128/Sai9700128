@@ -31,7 +31,7 @@ A web application aimed at helping international students easily find recipes an
 
 
 ### Goals 🌟
-- 🚀 Secure a Software Engineer role at Microsoft or Google.
+- 🚀 Secure a Software Engineer role at FANG.
 - 🌱 Continue exploring cloud technologies, AI-driven applications, and fitness development software.
 
 <!---
