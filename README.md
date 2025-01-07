@@ -7,8 +7,7 @@
 
 ```
 Email: burra.sa@northeastern.edu
-Portfolio URL:
-Resume URL:
+Linkedin URL: https://www.linkedin.com/in/b-sai-kalyan-a14816221/
 ```
 
 ## $${\color{lightgreen}About \space Me}$$
