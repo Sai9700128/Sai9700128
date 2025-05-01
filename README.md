@@ -1,59 +1,15 @@
-# Hello, I'm Kalyan👋
+👋 Hi there, I'm Sai Kalyan
+I'm a passionate DevOps and Full-Stack enthusiast currently pursuing my graduate studies at Northeastern University. I thrive at the intersection of software development and infrastructure automation. I love building scalable, cloud-native systems with robust CI/CD pipelines and infrastructure as code.
 
-
-## Software Engineer based in boston
-> I craft innovative solutions and share insights on technology, career growth, and personal development to inspire and empower others.
-> I explore ideas at the intersection of technology and creativity, delivering value through meaningful projects and thought-provoking content.
-
-```
-Email: burra.sa@northeastern.edu
-Linkedin URL: https://www.linkedin.com/in/b-sai-kalyan-a14816221/
-```
-
-## $${\color{lightgreen}About \space Me}$$
-
-I'm a Graduate Student at Northeastern University, pursuing Master of science in Computer Software Engineering. With a strong passion for full-stack development and a focus on building scalable, impactful solutions, I aim to create software that makes a difference.
-
-### Education 🎓
-- Northeastern University
-- Master of science in Computer Software Engineering
-- **2026**
-
-
-### Projects 💻
-<!--- Recipe Finder Application:
-A web application aimed at helping international students easily find recipes and manage their food arrangements. It includes features like ingredient-based searches and personalized recipe recommendations. --->
-
-- Roomies Radar: A scalable Progressive Web App for roommate and listing management, featuring Domain-Driven Design, RESTful APIs, ReactJS with TypeScript, Redux for state management, and optimized backend performance with a 25% faster API response time.
-
-- Talent Search (Applicant Tracking System): A scalable platform with AI-powered resume scoring, candidate tracking, and Spring Boot RESTful APIs, designed to streamline recruitment processes and improve efficiency.
-
-
-### Goals 🌟
-- 🚀 Secure a Software Engineer role at FANG.
-- 🌱 Continue exploring cloud technologies, AI-driven applications, and fitness development software.
-
-<!---
-Sai9700128/Sai9700128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-## Languages & Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-          
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+🚀 What I Do
+💻 Cloud & DevOps: Proficient in AWS, Terraform, Packer, GitHub Actions, Docker, and monitoring with CloudWatch. I’ve built secure, production-ready infrastructure using infrastructure-as-code and automated workflows.
+🧱 Microservices Development: Currently working on a URL Shortener System using Java Spring Boot, MySQL, and REST APIs with a clean microservices architecture.
+📦 CI/CD & Infrastructure Automation: Built end-to-end CI/CD pipelines deploying to multiple AWS accounts, with auto-scaling groups, KMS encryption, SSL/TLS security, and secrets management.
+🛠️ Tools & Tech: Java, Spring Boot, MySQL, AWS (EC2, RDS, S3, IAM), Terraform, GitHub Actions, Linux, Shell Scripting, Docker, REST APIs.
+📌 Featured Projects
+🔗 URL Shortener System (in progress): A scalable, microservices-based backend using Spring Boot and MySQL with AWS integration, custom health checks, and observability.
+☁️ Cloud-Native Web Application: Health check API with automated RDS integration, image uploads to S3, and secure secret handling using AWS IAM & Secrets Manager.
+🔄 Infrastructure Automation: Built immutable AMIs with Packer, managed secure deployments using Terraform across DEV and DEMO environments, and implemented lifecycle policies for S3 and RDS.
+📫 Let’s Connect
+Feel free to check out my repositories, open issues, and raise PRs! I'm always open to collaborating on DevOps or cloud-native projects.
+📧 burra.sa@northeastern.edu • 💼 https://www.linkedin.com/in/b-sai-kalyan-a14816221/ • 📝 https://medium.com/@saikalyan.burra
