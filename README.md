@@ -9,5 +9,5 @@
 
 ### 📫 Let’s Connect
 
-linkedin.com/in/b-sai-kalyan-a14816221/
+https://linkedin.com/in/b-sai-kalyan-a14816221/
 https://saikalyanbportfolio.vercel.app
