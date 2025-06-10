@@ -8,10 +8,6 @@
 
 
 ### 📫 Let’s Connect
-        <a href="linkedin.com/in/b-sai-kalyan-a14816221/">
-            <img src="https://cdn.simpleicons.org/linkedin/24" alt="LinkedIn" width="25" height="25">
-        </a>
-<a href="https://saikalyanbportfolio.vercel.app">
-        <img src="https://example.com/your-website-logo.png" alt="Your Website" width="50" height="50">
-    </a>
 
+linkedin.com/in/b-sai-kalyan-a14816221/
+https://saikalyanbportfolio.vercel.app
