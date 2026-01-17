@@ -1,7 +1,7 @@
 # Hello. I'm Sai Kalyan. 👋
 
 ### Cloud DevOps Engineer
-### based in Boston, MA
+### based in Brookline, MA
 
 > I build scalable cloud infrastructure and automate everything.
 > Passionate about Kubernetes, GitOps, and multi-cloud architectures.
