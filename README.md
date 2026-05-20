@@ -24,7 +24,7 @@
 ### 🎓 Education
 **MS in Software Engineering Systems**  
 Northeastern University  
-*Sep 2024 – May 2026*
+*Sep 2024 – April 2026*
 
 </td>
 <td width="50%" valign="top">
