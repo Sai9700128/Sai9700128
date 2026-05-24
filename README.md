@@ -1,6 +1,6 @@
 # Hello. I'm Sai Kalyan. 👋
 
-### Cloud DevOps Engineer
+### Cloud & DevOps Engineer
 ### based in Brookline, MA
 
 > I build scalable cloud infrastructure and automate everything.
@@ -11,7 +11,8 @@
 | 📧 Email | burra.sa@northeastern.edu |
 |----------|---------------------------|
 | 🔗 LinkedIn | [linkedin.com/in/sai-kalyan-burra](https://linkedin.com/in/sai-kalyan-burra) |
-| 🌐 Portfolio | [saikalyanb](https://saikalyanbportfolio.vercel.app/)|
+| 🌐 Portfolio | [saikalyanbportfolio.vercel.app](https://saikalyanbportfolio.vercel.app/) |
+| ✍️ Blog | [medium.com/@saikalyan.burra](https://medium.com/@saikalyan.burra) |
 
 <br>
 
@@ -22,17 +23,21 @@
 <td width="50%" valign="top">
 
 ### 🎓 Education
-**MS in Software Engineering Systems**  
-Northeastern University  
-*Sep 2024 – April 2026*
+**MS in Software Engineering Systems**
+Northeastern University
+*Sep 2024 – Apr 2026*
+
+Coursework: Network Structures & Cloud Computing, Linux for Networking, Operating Systems
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 Work Experience
-**Software Engineer Intern**  
-Built-in Tech — Cloud Infrastructure & Mobile Dev  
-*Agile/Scrum • AWS • CI/CD*
+**Software Engineer Intern**
+Builtin Tech — Cloud Infrastructure & Application Development
+*Feb 2023 – Jul 2023 · Hyderabad, India*
+
+5-person team lead · FinOps dashboards · S3+CloudFront migration · Security hardening
 
 </td>
 </tr>
@@ -40,20 +45,27 @@ Built-in Tech — Cloud Infrastructure & Mobile Dev
 <td width="50%" valign="top">
 
 ### 🛠️ Core Skills
-- **Cloud:** AWS, GCP
-- **Orchestration:** Kubernetes, EKS, Helm
-- **IaC:** Terraform, GitOps, ArgoCD
-- **Monitoring:** Prometheus, Grafana, Loki
-- **Languages:** Python, Bash, SQL
+- **Cloud:** AWS (EKS, ECS/Fargate, Lambda, RDS, S3, Route 53), GCP (GKE, Cloud SQL)
+- **Containers:** Kubernetes, Docker, Helm, Istio
+- **IaC:** Terraform, CloudFormation
+- **CI/CD:** GitHub Actions, ArgoCD, GitLab
+- **Observability:** Prometheus, Grafana, Loki, Tempo
+- **Security:** Vault, OPA Gatekeeper, Trivy
+- **Languages:** Go, Python, Bash, Java, TypeScript
 
 </td>
 <td width="50%" valign="top">
 
 ### 📜 Certifications
 - ✅ Google Cloud Digital Leader
-- 🔄 AWS Solutions Architect *(In Progress)*
+- 🔄 AWS Solutions Architect — Associate *(In Progress)*
 
-**1,000+ GitHub contributions** across cloud infrastructure and DevOps projects
+### 📊 Key Metrics
+| Metric | Result |
+|--------|--------|
+| Microservices scaled | 3 → 50+ |
+| CI pipeline runtime | ~80% reduction |
+| MTTD improvement | ~70% faster |
 
 </td>
 </tr>
@@ -63,74 +75,67 @@ Built-in Tech — Cloud Infrastructure & Mobile Dev
 
 ## Featured Projects
 
-### ⚡ [TaskFlow — Cloud-Native Microservices Platform](https://github.com/saikalyanb/taskflow)
-> Production-grade Kubernetes platform with full GitOps workflow
+### ⚡ [TaskFlow — Cloud-Native CI/CD & Microservices Platform](https://github.com/Sai9700128/gitops_app_Taskflow)
+> Scaled from 3 to 50+ microservices on AWS EKS with full GitOps workflow
 
-| Metric | Result |
-|--------|--------|
-| Deployment Time | **2+ hours → 5 minutes** (97% faster) |
-| Incident Detection | **70% faster** with Prometheus/Grafana |
-| Attack Surface | **80% reduced** via zero-trust security |
+- Reusable Terraform modules with `for_each` — environments provisioned in ~15 min
+- GitHub Actions dynamic matrix builds with change detection — ~80% pipeline runtime reduction
+- ArgoCD ApplicationSets with Git directory generators — zero CD changes to add a service
+- Prometheus + Grafana + Loki + Tempo for observability — Kubecost for cost monitoring
+- Zero-trust: Network Policies, Istio mTLS, OPA Gatekeeper, HashiCorp Vault
 
-**Tech Stack:** `AWS EKS` `Terraform` `ArgoCD` `Helm` `GitHub Actions` `Prometheus` `Grafana` `Istio` `Vault` `OPA Gatekeeper`
+**Tech:** `Go` `AWS EKS` `Terraform` `ArgoCD` `Helm` `GitHub Actions` `Prometheus` `Grafana` `Istio` `Vault` `OPA Gatekeeper`
 
----
-
-### 🌐 [Cloud-Native WebApp — AWS Infrastructure](https://github.com/saikalyanb/tf-aws-infra)
-> Scalable AWS infrastructure supporting 5,000+ concurrent users
-
-| Metric | Result |
-|--------|--------|
-| Uptime | **99%** availability |
-| Deployment Time | **40% faster** with Packer AMI automation (45min → 27min) |
-| Storage Costs | **30% reduced** via S3 lifecycle policies |
-| Code Duplication | **60% reduced** through Terraform module refactoring |
-
-**Tech Stack:** `Terraform` `AWS` `Packer` `S3` `CloudWatch` `GCP`
+📂 [App Repo](https://github.com/Sai9700128/gitops_app_Taskflow) · [GitOps Config](https://github.com/Sai9700128/gitops-config)
 
 ---
 
-### ☁️ [Multi-Cloud Data Transfer Pipeline — AWS to GCP](https://github.com/saikalyanb/multi-cloud-transfer)
-> Cross-cloud data migration using Google Storage Transfer Service
+### 🔧 [Open Source Contributor — OpsiMate](https://github.com/OpsiMate/OpsiMate)
+> Terraform modules & Helm charts for an open-source DevOps monitoring platform
 
-- Architected S3 → GCS transfer with cross-cloud IAM authentication
-- Automated transfer scheduling with Python scripts
-- Infrastructure as Code with Terraform modules
+- All PRs merged upstream — contributor onboarding cut from 4+ hours to <10 minutes
+- Introduced CI quality gates: Helm linting, Terraform plan validation, automated tests
+- Authored ADRs, contributor guides, and operational runbooks
 
-**Tech Stack:** `AWS S3` `GCP Storage Transfer` `GCS` `IAM` `Terraform` `Python`
+**Tech:** `Terraform` `Helm` `Kubernetes` `AWS EKS` `EC2` `GitHub Actions`
 
 ---
 
-### 🔄 [Multi-Region Disaster Recovery on AWS](https://github.com/saikalyanb/aws-disaster-recovery)
-> Active-passive DR solution across us-east-1 and us-west-2
+### 🔄 [Multi-Region Disaster Recovery on AWS](https://github.com/Sai9700128/Multi-Region-DR)
+> Active-passive DR across two AWS regions with automated failover
 
 - **RPO:** 5 minutes | **RTO:** 15 minutes
-- RDS cross-region replication + S3 CRR
-- Route 53 health checks with automated failover
+- Route 53 health checks + DNS failover + cross-region replication
+- Zero human involvement during simulated regional outages
 
-**Tech Stack:** `Terraform` `AWS EC2` `RDS` `S3` `Route 53` `Lambda` `CloudWatch`
+**Tech:** `Terraform` `AWS (EC2, RDS, S3, Route 53, Lambda, CloudWatch)` `GitHub Actions` `Bash`
 
 ---
 
-### 🏠 [Roomies Radar — Roommate Matching Platform](https://github.com/saikalyanb/roomies-radar)
+### 🌐 [Cloud-Native WebApp — AWS Infrastructure](https://github.com/Sai9700128/Webapp)
+> Production AWS infrastructure with Terraform & Packer
+
+- Automated AMI builds with Packer — deployment time reduced ~40%
+- S3 encryption + lifecycle policies — ~30% storage cost reduction
+- Terraform module refactoring — 60% less infrastructure code duplication
+
+**Tech:** `Terraform` `AWS` `Packer` `GitHub Actions` `CloudWatch`
+
+📂 [App Repo](https://github.com/Sai9700128/Webapp) · [Infra Repo](https://github.com/Sai9700128/tf-aws-infra)
+
+---
+
+### 🏠 Roomies Radar — Roommate Matching Platform
 > Full-stack PWA connecting individuals with compatible roommates
 
-| Feature | Description |
-|---------|-------------|
-| 🔐 Authentication | JWT-based secure registration & login |
-| 🎯 Smart Matching | Preference-based matching (gender, food habits, room type) |
-| 🏘️ Property Listings | Detailed listings with photos, amenities, availability |
-| 🌍 i18n | Internationalization for global users |
-| 📱 PWA | Progressive Web App for cross-device accessibility |
-
-**Tech Stack:** `React.js` `Node.js` `JWT` `PWA` `Domain-Driven Design`
+- JWT authentication · Preference-based matching · Domain-Driven Design · PWA
 
 <br>
 
 ---
 
 <p align="center">
-  <b>Currently seeking Cloud/DevOps roles for Summer 2025 & Full-time 2026</b>
+  <b>Available for Cloud / DevOps / SRE / Platform Engineer roles · STEM OPT authorized · Open to relocation</b>
 </p>
 
 <p align="center">
@@ -139,5 +144,8 @@ Built-in Tech — Cloud Infrastructure & Mobile Dev
   </a>
   <a href="mailto:burra.sa@northeastern.edu">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://saikalyanbportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel" />
   </a>
 </p>
