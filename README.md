@@ -1,14 +1,14 @@
 # Hello. I'm Sai Kalyan. 👋
 
-### Cloud & DevOps Engineer
+### DevOps Engineer
 ### based in Brookline, MA
 
-> I build scalable cloud infrastructure and automate everything.
+> I architect cloud-native infrastructure end to end, from provisioning through production-grade security.
 > Passionate about Kubernetes, GitOps, and multi-cloud architectures.
 
 <br>
 
-| 📧 Email | burra.sa@northeastern.edu |
+| 📧 Email | saikalyanx1@gmail.com |
 |----------|---------------------------|
 | 🔗 LinkedIn | [linkedin.com/in/sai-kalyan-burra](https://linkedin.com/in/sai-kalyan-burra) |
 | 🌐 Portfolio | [saikalyanbportfolio.vercel.app](https://saikalyanbportfolio.vercel.app/) |
@@ -17,6 +17,8 @@
 <br>
 
 ## About Me
+
+Built and scaled a 50+ microservice platform on AWS EKS using Terraform, Kubernetes, and GitOps practices, cutting environment provisioning to 25 minutes and reducing CI/CD pipeline runtime by 80%. Complemented this with independent freelance work administering core AWS services for small business clients, and hold multi-cloud credentials spanning GCP and OCI.
 
 <table>
 <tr>
@@ -32,12 +34,15 @@ Coursework: Network Structures & Cloud Computing, Linux for Networking, Operatin
 </td>
 <td width="50%" valign="top">
 
-### 💼 Work Experience
-**Software Engineer Intern**
-Builtin Tech — Cloud Infrastructure & Application Development
-*Feb 2023 – Jul 2023 · Hyderabad, India*
+### 💼 Experience
+**Linux System Admin Volunteer** — American Technology Initiative *(Jun 2026 – Present)*
+Production-ready 2-node Kubernetes cluster for a nonprofit, from bare hosts to orchestration foundation
 
-5-person team lead · FinOps dashboards · S3+CloudFront migration · Security hardening
+**Freelance Web & Cloud Systems Consultant** — Independent *(Nov 2023 – Feb 2024)*
+Linux EC2 administration, S3-based static hosting, serverless image processing pipelines
+
+**Software Engineer Intern** — Builtin Tech *(Feb 2023 – Jul 2023)*
+5-person team lead · Firebase backend · FinOps dashboards · S3 security hardening
 
 </td>
 </tr>
@@ -45,27 +50,26 @@ Builtin Tech — Cloud Infrastructure & Application Development
 <td width="50%" valign="top">
 
 ### 🛠️ Core Skills
-- **Cloud:** AWS (EKS, ECS/Fargate, Lambda, RDS, S3, Route 53), GCP (GKE, Cloud SQL)
-- **Containers:** Kubernetes, Docker, Helm, Istio
-- **IaC:** Terraform, CloudFormation
-- **CI/CD:** GitHub Actions, ArgoCD, GitLab
-- **Observability:** Prometheus, Grafana, Loki, Tempo
-- **Security:** Vault, OPA Gatekeeper, Trivy
-- **Languages:** Go, Python, Bash, Java, TypeScript
+- **Cloud & IaC:** AWS (EC2, VPC, S3, RDS, IAM, EKS, ECR, ECS/Fargate, Lambda, CloudWatch, Route 53), GCP (GKE, Cloud SQL), Terraform, CloudFormation
+- **Containers & GitOps:** Docker, Kubernetes (EKS/GKE), Helm, Istio, GitHub Actions, ArgoCD, GitLab
+- **Observability & Security:** Prometheus, Grafana, Loki, Tempo, HashiCorp Vault, OPA Gatekeeper, Trivy, IAM Policies
+- **Linux & Networking:** Ubuntu 24.04, CentOS, systemd, SSH hardening, UFW, fail2ban, Nginx, TLS/certbot, TCP/IP, DNS, VPC/Subnet Design, mTLS
+- **Languages:** Python, Bash/Shell, Java, JavaScript, TypeScript, Go
 
 </td>
 <td width="50%" valign="top">
 
 ### 📜 Certifications
+- ✅ Oracle Cloud Infrastructure (OCI) Associate
 - ✅ Google Cloud Digital Leader
-- 🔄 AWS Solutions Architect — Associate *(In Progress)*
+- 🔄 AWS Certified Solutions Architect — Associate *(In Progress)*
 
 ### 📊 Key Metrics
 | Metric | Result |
 |--------|--------|
 | Microservices scaled | 3 → 50+ |
+| Environment provisioning | ~25 min |
 | CI pipeline runtime | ~80% reduction |
-| MTTD improvement | ~70% faster |
 
 </td>
 </tr>
@@ -75,33 +79,53 @@ Builtin Tech — Cloud Infrastructure & Application Development
 
 ## Featured Projects
 
-### ⚡ [TaskFlow — Cloud-Native CI/CD & Microservices Platform](https://github.com/Sai9700128/gitops_app_Taskflow)
-> Scaled from 3 to 50+ microservices on AWS EKS with full GitOps workflow
+### ⚡ ShipForge — Cloud-Native CI/CD & Microservices Platform
+> Scaled from 3 to 50+ microservices on AWS EKS with a full GitOps workflow
 
-- Reusable Terraform modules with `for_each` — environments provisioned in ~15 min
+- Reusable Terraform modules with a `for_each` pattern — environment provisioning cut to ~25 minutes
 - GitHub Actions dynamic matrix builds with change detection — ~80% pipeline runtime reduction
-- ArgoCD ApplicationSets with Git directory generators — zero CD changes to add a service
-- Prometheus + Grafana + Loki + Tempo for observability — Kubecost for cost monitoring
-- Zero-trust: Network Policies, Istio mTLS, OPA Gatekeeper, HashiCorp Vault
+- ArgoCD ApplicationSets with Git directory generators — net-new service deploys down to a single directory commit
+- Full-stack observability: Prometheus, Grafana, Loki, Tempo, with Kubecost for per-service cost accountability
+- Zero-trust security baseline: Kubernetes Network Policies, Istio mTLS, HashiCorp Vault, OPA Gatekeeper
 
-**Tech:** `Go` `AWS EKS` `Terraform` `ArgoCD` `Helm` `GitHub Actions` `Prometheus` `Grafana` `Istio` `Vault` `OPA Gatekeeper`
-
-📂 [App Repo](https://github.com/Sai9700128/gitops_app_Taskflow) · [GitOps Config](https://github.com/Sai9700128/gitops-config)
+**Tech:** `AWS EKS` `Terraform` `ArgoCD` `Helm` `Docker` `GitHub Actions` `Prometheus` `Grafana` `Istio` `Vault` `OPA Gatekeeper`
 
 ---
 
-### 🔧 [Open Source Contributor — OpsiMate](https://github.com/OpsiMate/OpsiMate)
-> Terraform modules & Helm charts for an open-source DevOps monitoring platform
+### 🤖 InfraLens — AI-Powered Terraform Review Pipeline
+> GitHub Actions pipeline using the Claude API to review infrastructure diffs on PRs
 
-- All PRs merged upstream — contributor onboarding cut from 4+ hours to <10 minutes
-- Introduced CI quality gates: Helm linting, Terraform plan validation, automated tests
-- Authored ADRs, contributor guides, and operational runbooks
+- Analyzes Terraform diffs on PRs and blocks merges on critical findings via OPA Rego policy gates, validated against ShipForge's production EKS codebase
+- Filters low-level noise through tflint and Checkov before AI analysis, then structures Claude's output as JSON so OPA can auto-enforce policy gates and post inline PR feedback
+
+**Tech:** `GitHub Actions` `Claude API` `OPA Rego` `tflint` `Checkov`
+
+---
+
+### 🔧 OpsiMate — Open Source Contributor
+> Terraform modules & Helm charts for an open-source alert management platform
+
+- PRs #256 and #257 merged upstream — Helm chosen over raw manifests so contributors could override environment values without touching templates, cutting onboarding from 4+ hours to under 10 minutes
+- Established PR-level quality gates: Helm chart linting, Terraform plan validation, automated unit tests
 
 **Tech:** `Terraform` `Helm` `Kubernetes` `AWS EKS` `EC2` `GitHub Actions`
 
 ---
 
-### 🔄 [Multi-Region Disaster Recovery on AWS](https://github.com/Sai9700128/Multi-Region-DR)
+### 🖥️ LinuxOps Homelab — Production Server Hardening & Operations
+> Hardened Ubuntu 24.04 EC2 server with a full operational runbook
+
+- SSH key-only auth, UFW firewall, fail2ban brute-force protection, and an Nginx reverse proxy with TLS termination and security headers (HSTS, X-Frame-Options)
+- Node Exporter deployed as a systemd service exposing CPU, disk, and memory metrics
+- Automated disk usage reporting via cron and logrotate, with a full operational runbook covering all procedures
+
+**Tech:** `Ubuntu 24.04` `Nginx` `Let's Encrypt` `UFW` `fail2ban` `Node Exporter` `systemd` `cron` `logrotate`
+
+📂 [Repo](https://github.com/Sai9700128/linux-ops-homelab)
+
+---
+
+### 🔄 Multi-Region Disaster Recovery on AWS
 > Active-passive DR across two AWS regions with automated failover
 
 - **RPO:** 5 minutes | **RTO:** 15 minutes
@@ -110,18 +134,7 @@ Builtin Tech — Cloud Infrastructure & Application Development
 
 **Tech:** `Terraform` `AWS (EC2, RDS, S3, Route 53, Lambda, CloudWatch)` `GitHub Actions` `Bash`
 
----
-
-### 🌐 [Cloud-Native WebApp — AWS Infrastructure](https://github.com/Sai9700128/Webapp)
-> Production AWS infrastructure with Terraform & Packer
-
-- Automated AMI builds with Packer — deployment time reduced ~40%
-- S3 encryption + lifecycle policies — ~30% storage cost reduction
-- Terraform module refactoring — 60% less infrastructure code duplication
-
-**Tech:** `Terraform` `AWS` `Packer` `GitHub Actions` `CloudWatch`
-
-📂 [App Repo](https://github.com/Sai9700128/Webapp) · [Infra Repo](https://github.com/Sai9700128/tf-aws-infra)
+📂 [Repo](https://github.com/Sai9700128/Multi-Region-DR)
 
 ---
 
@@ -135,14 +148,14 @@ Builtin Tech — Cloud Infrastructure & Application Development
 ---
 
 <p align="center">
-  <b>Available for Cloud / DevOps / SRE / Platform Engineer roles · STEM OPT authorized · Open to relocation</b>
+  <b>Available for Cloud / DevOps / SRE / Platform Engineer roles · F-1 OPT Authorized · H-1B Sponsorship Required Long-Term · Open to Relocation</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-kalyan-burra">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:burra.sa@northeastern.edu">
+  <a href="mailto:saikalyanx1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://saikalyanbportfolio.vercel.app/">
