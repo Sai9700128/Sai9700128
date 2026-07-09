@@ -143,6 +143,17 @@ Linux EC2 administration, S3-based static hosting, serverless image processing p
 
 - JWT authentication · Preference-based matching · Domain-Driven Design · PWA
 
+---
+
+### 🖥️ MyOS — Interactive Operating System from Scratch
+> A 32-bit x86 kernel built from bare metal, booting into an interactive command shell in QEMU
+
+- Wrote a custom bootloader and kernel in x86 Assembly, running in 32-bit protected mode with direct VGA text-mode display (80x25) output
+- Built a keyboard-driven command loop handling PS/2 input, with a working shell supporting `clear`, `help`, `info`, `list`, `hello`, `mem`, and `time` commands
+- Implemented low-level system introspection (OS version, mode, display, and input device reporting) entirely from raw hardware interaction, with no OS or libc underneath
+
+**Tech:** `x86 Assembly (NASM)` `QEMU` `Make` `Bare-metal / OS Development`
+
 <br>
 
 ---
